@@ -1,0 +1,3 @@
+Terminal line concatonate multi line CSV filese:
+
+  grep "" *.csv > mergedData.csv
